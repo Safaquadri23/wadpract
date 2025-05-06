@@ -1,0 +1,4 @@
+this is an practical based on github assignment
+name:XYZ
+class TE IT
+SUB:WAD
